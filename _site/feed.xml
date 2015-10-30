@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocole scientifique pour tester le référencement SEO</title>
+    <description>Projet de référencement SEO</description>
+    <link>http://0.0.0.0:4000//</link>
+    <atom:link href="http://0.0.0.0:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 30 Oct 2015 12:13:28 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2015 12:13:28 +0100</lastBuildDate>
+    <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Oct 2015 12:36:41 +0100</pubDate>
+        <link>http://0.0.0.0:4000//recherche-mobile-google</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000//recherche-mobile-google</guid>
+        
+        <category>protocole</category>
+        
+        
+        <category>protocole</category>
+        
+      </item>
+    
+      <item>
+        <title>Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Oct 2015 12:35:41 +0100</pubDate>
+        <link>http://0.0.0.0:4000//comportement-robot-indexeur-google-bing</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000//comportement-robot-indexeur-google-bing</guid>
+        
+        <category>protocole</category>
+        
+        
+        <category>protocole</category>
+        
+      </item>
+    
+      <item>
+        <title>Comparer Google et Bing dans l'interprétation du nofollow</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Oct 2015 12:11:41 +0100</pubDate>
+        <link>http://0.0.0.0:4000//comparer-google-bing-interpretation-nofollow</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000//comparer-google-bing-interpretation-nofollow</guid>
+        
+        <category>protocole</category>
+        
+        
+        <category>protocole</category>
+        
+      </item>
+    
+  </channel>
+</rss>
