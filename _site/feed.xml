@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Protocole scientifique pour tester le référencement SEO</title>
-    <description>Projet de référencement SEO</description>
+    <title>Projet SEO</title>
+    <description>description site</description>
     <link>http://0.0.0.0:4000//</link>
     <atom:link href="http://0.0.0.0:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 30 Oct 2015 12:18:48 +0100</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2015 12:18:48 +0100</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2015 16:21:07 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 16:21:07 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
