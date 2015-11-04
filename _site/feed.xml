@@ -3,24 +3,35 @@
   <channel>
     <title>Projet SEO</title>
     <description>description site</description>
-    <link>http://0.0.0.0:4000//</link>
-    <atom:link href="http://0.0.0.0:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Nov 2015 16:29:31 +0100</pubDate>
-    <lastBuildDate>Wed, 04 Nov 2015 16:29:31 +0100</lastBuildDate>
+    <link>www.referencement-web.site/</link>
+    <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 04 Nov 2015 17:06:12 +0100</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2015 17:06:12 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
+    
+      <item>
+        <title>Le glossaire du référencement SEO</title>
+        <description>
+</description>
+        <pubDate>Wed, 04 Nov 2015 18:00:00 +0100</pubDate>
+        <link>www.referencement-web.site/glossaire-referencement-SEO</link>
+        <guid isPermaLink="true">www.referencement-web.site/glossaire-referencement-SEO</guid>
+        
+        <category>autre</category>
+        
+        
+      </item>
     
       <item>
         <title>à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles</title>
         <description>
 </description>
         <pubDate>Fri, 30 Oct 2015 12:36:41 +0100</pubDate>
-        <link>http://0.0.0.0:4000//recherche-mobile-google</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000//recherche-mobile-google</guid>
+        <link>www.referencement-web.site/recherche-mobile-google</link>
+        <guid isPermaLink="true">www.referencement-web.site/recherche-mobile-google</guid>
         
         <category>protocole</category>
         
-        
-        <category>protocole</category>
         
       </item>
     
@@ -29,13 +40,11 @@
         <description>
 </description>
         <pubDate>Fri, 30 Oct 2015 12:35:41 +0100</pubDate>
-        <link>http://0.0.0.0:4000//comportement-robot-indexeur-google-bing</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000//comportement-robot-indexeur-google-bing</guid>
+        <link>www.referencement-web.site/comportement-robot-indexeur-google-bing</link>
+        <guid isPermaLink="true">www.referencement-web.site/comportement-robot-indexeur-google-bing</guid>
         
         <category>protocole</category>
         
-        
-        <category>protocole</category>
         
       </item>
     
@@ -44,13 +53,11 @@
         <description>
 </description>
         <pubDate>Fri, 30 Oct 2015 12:11:41 +0100</pubDate>
-        <link>http://0.0.0.0:4000//comparer-google-bing-interpretation-nofollow</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000//comparer-google-bing-interpretation-nofollow</guid>
+        <link>www.referencement-web.site/comparer-google-bing-interpretation-nofollow</link>
+        <guid isPermaLink="true">www.referencement-web.site/comparer-google-bing-interpretation-nofollow</guid>
         
         <category>protocole</category>
         
-        
-        <category>protocole</category>
         
       </item>
     
