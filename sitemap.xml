@@ -13,10 +13,8 @@ permalink: sitemap.xml/
 
   {% for post in site.posts %}
   <url>
-    <loc>{{ post.url | prepend: site.baseurl }}</loc>
+    <loc>{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}</loc>
   </url>
   {% endfor %}
 
 </urlset>
-
-
