@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
     <loc>http://www.referencement-web.site/</loc>
@@ -42,6 +44,13 @@
     <lastmod>2015-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <image:image>
+      <image:loc>http://www.referencement-web.site/images/bing-google-nofollow.png</image:loc>
+      <image:titre>Comparer Google et Bing dans l'interprétation du nofollow</image:titre>
+    </image:image>
   </url>
 
 </urlset>

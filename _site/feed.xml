@@ -5,8 +5,8 @@
     <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Nov 2015 14:59:30 +0100</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2015 14:59:30 +0100</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2015 15:19:06 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 15:19:06 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -153,7 +153,7 @@ $(document).ready(function() {
     
       <item>
         <title>Comparer Google et Bing dans l'interprétation du nofollow</title>
-        <description>
+        <description>&lt;img src=&quot;/images/bing-google-nofollow.png&quot; alt=&quot;Comparer Google et Bing dans l'interprétation du nofollow&quot; /&gt;
 </description>
         <pubDate>Fri, 30 Oct 2015 12:11:41 +0100</pubDate>
         <link>www.referencement-web.site/comparer-google-bing-interpretation-nofollow</link>
