@@ -23,12 +23,12 @@
     <loc>http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/</loc>
     <image:image>
       <image:loc>http://www.referencement-web.site/images/bing-google-nofollow.png</image:loc>
-      <image:titre>Comparer Google et Bing dans l'interprétation du nofollow</image:titre>
+      <image:title>Comparer Google et Bing dans l'interprétation du nofollow</image:title>
     </image:image>
   </url>
 
   <url>
     <loc>http://www.referencement-web.site/comportement-robot-indexeur-google-bing</loc>
   </url>
-  
+
 </urlset>
