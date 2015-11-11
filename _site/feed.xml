@@ -1,19 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projet SEO</title>
-    <description>description site</description>
+    <title>Référencement SEO • Google et Bing</title>
+    <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 Nov 2015 18:12:44 +0100</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2015 18:12:44 +0100</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2015 14:59:30 +0100</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 14:59:30 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
         <title>Le glossaire du référencement SEO</title>
-        <description>
+        <description>&lt;p&gt;
+  Quand on parle SEO (Search Engine Optimisation) ou référencement naturel, on utilise
+  tout un tas d'acronymes et d'expressions qui peuvent vite effrayer les débutants.
+  Voici ci-dessous le glossaire du SEO.
+&lt;/p&gt;
+
+&lt;p class=&quot;&quot;&gt;
+  &lt;a href=&quot;#A&quot; class=&quot;scrollTo&quot;&gt;A&lt;/a&gt;
+  &lt;a href=&quot;#B&quot; class=&quot;scrollTo&quot;&gt;B&lt;/a&gt;
+  C
+  D
+  E
+  F
+  G
+  H
+  I
+  J
+  K
+  L
+  M
+  N
+  O
+  P
+  Q
+  R
+  R
+  S
+  T
+  U
+  V
+  W
+  X
+  Y
+  Z
+&lt;/p&gt;
+
+&lt;h2 id='A'&gt;Les mots clés SEO en A&lt;/h2&gt;
+&lt;p&gt;
+  &lt;strong&gt;A/B testing&lt;/strong&gt; :
+  Technique qui permet de tester des variantes des pages web de son site. C'est
+  en effet la meilleur manière de confirmer vos hypothèses et de garantir la
+  meilleure expérience utilisateur à votre cible.
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Adblock&lt;/strong&gt; :
+  Comme on parle de référencement naturel, Adieu la publicité !
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Adwords&lt;/strong&gt; :
+  Outil de Google qui permet d'avoir des informations sur les mots clés recherchés.
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Ancre de lien&lt;/strong&gt; :
+  l'ancre de lien est la partie visible d'un lien sur un site, elle est souvent
+  différente de l'url. (en HTML, il s'agit du texte à l'intérieur de la balise a)
+&lt;/p&gt;
+
+
+&lt;h2 id='B'&gt;Les mots clés SEO en B&lt;/h2&gt;
+&lt;p&gt;
+  &lt;strong&gt;Balise h1, h2…h6 &lt;/strong&gt; :
+  Ces balises permettent de répresenter les titres en HTML de façon hiérarchique.
+  Elles ont une importance primordiale dans le SEO et doivent contenir vos mots clés.
+  La balise h1 est considérée comme la balise plus importante en référencement naturel
+  après le meta title et la meta description.
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Black Hat&lt;/strong&gt; :
+  &quot;Hacker mal intentionné&quot;, en SEO, ce sont les personnes qui ne respectent pas les
+  recommandations des moteurs de recherches et essayent de tricher afin d'être mieux
+  référencés. Attention, Google n'aime pas ça!
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Backlink&lt;/strong&gt; :
+  ensemble des liens entrants ou inbound links vers votre site.
+  C'est sur cet élément innovateur que Lary Page et Sergey Brin ont fondé leur
+  algorithme de PageRank au tout début de Google. La qualité du site référent est
+  à priviligier sur la quantité.
+&lt;/p&gt;
+
+&lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+$(document).ready(function() {
+
+  //fonction scrollTo
+  $('.scrollTo').click( function() { // Au clic sur un élément
+    var page = $(this).attr('href'); // Page cible
+    var speed = 400; // Durée de l'animation (en ms)
+    console.log(page);
+    if (page == &quot;#top&quot;){
+      $('html, body').animate( { scrollTop: 0 }, speed ); // Go
+    }
+    else{
+      $('html, body').animate( { scrollTop: $(page).offset().top }, speed ); // Go
+    }
+    return false;
+  });
+});
+&lt;/script&gt;
 </description>
-        <pubDate>Wed, 04 Nov 2015 18:00:00 +0100</pubDate>
+        <pubDate>Wed, 11 Nov 2015 15:00:00 +0100</pubDate>
         <link>www.referencement-web.site/glossaire-referencement-SEO</link>
         <guid isPermaLink="true">www.referencement-web.site/glossaire-referencement-SEO</guid>
         
