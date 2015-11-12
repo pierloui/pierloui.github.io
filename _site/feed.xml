@@ -5,8 +5,8 @@
     <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Nov 2015 09:22:37 +0100</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 09:22:37 +0100</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 10:39:26 +0100</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 10:39:26 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -22,25 +22,24 @@
     &lt;a href=&quot;#A&quot; class=&quot;scrollTo&quot;&gt;A&lt;/a&gt;
     &lt;a href=&quot;#B&quot; class=&quot;scrollTo&quot;&gt;B&lt;/a&gt;
     C
-    D
+    &lt;a href=&quot;#D&quot; class=&quot;scrollTo&quot;&gt;D&lt;/a&gt;
     E
-    F
-    G
+    &lt;a href=&quot;#F&quot; class=&quot;scrollTo&quot;&gt;F&lt;/a&gt;
+    &lt;a href=&quot;#G&quot; class=&quot;scrollTo&quot;&gt;G&lt;/a&gt;
     H
     I
     J
-    K
-    L
+    &lt;a href=&quot;#K&quot; class=&quot;scrollTo&quot;&gt;K&lt;/a&gt;
+    &lt;a href=&quot;#L&quot; class=&quot;scrollTo&quot;&gt;L&lt;/a&gt;
     M
-    N
+    &lt;a href=&quot;#N&quot; class=&quot;scrollTo&quot;&gt;N&lt;/a&gt;
     O
-    P
+    &lt;a href=&quot;#P&quot; class=&quot;scrollTo&quot;&gt;P&lt;/a&gt;
     Q
-    R
-    R
-    S
-    T
-    U
+    &lt;a href=&quot;#R&quot; class=&quot;scrollTo&quot;&gt;R&lt;/a&gt;
+    &lt;a href=&quot;#S&quot; class=&quot;scrollTo&quot;&gt;S&lt;/a&gt;
+    &lt;a href=&quot;#T&quot; class=&quot;scrollTo&quot;&gt;T&lt;/a&gt;
+    &lt;a href=&quot;#U&quot; class=&quot;scrollTo&quot;&gt;U&lt;/a&gt;
     V
     W
     X
@@ -96,7 +95,154 @@
     algorithme de PageRank au tout début de Google. La qualité du site référent est
     à priviligier sur la quantité.
   &lt;/p&gt;
-&lt;/div&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Bing&lt;/strong&gt; :
+    Google n'est pas le seul moteur de recherche. En France, Google possède 95%
+    de part de marché mais au États-Unis Yahoo/Bing représente quand même 22%. A
+    ne pas négliger pour les business internationaux!
+  &lt;/p&gt;
+
+  &lt;p&gt;
+    &lt;strong&gt;Bing Webmaster Tool&lt;/strong&gt; :
+    L'équivalent de &quot;Google Webmaster Tool&quot;, c'est un outil pour aider les
+    webmasters au référencement de leur site.
+
+    &lt;h2 id='D'&gt;Les mots clés SEO en D&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Densité de mots clés&lt;/strong&gt; :
+      Nombre de mots clés et occurrence de ces derniers sur votre site. C'est un
+      indice de performance SEO : trop de répétitions d'un mot clé et vous serez
+      considéré comme un spameur,pas assez et vous ne serez même pas considéré :)
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;Domain Authority&lt;/strong&gt; :
+      Score sur une échelle de 0 à 100 qui montre le poids de votre site par
+      rapport aux concurrents sur les moteurs de recherche.
+    &lt;/p&gt;
+
+    &lt;h2 id='F'&gt;Les mots clés SEO en F&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Fil d’arianne (anglais : breadcrumb)&lt;/strong&gt; :
+      C'est un système d'aide à la navigation qui permet
+      à l'utilisateur de retrouver son chemin de progression sur un site internet.
+      Ce terme vient du petit Poucet pour le mot anglais et de la mythologie grecque
+      en français.
+    &lt;/p&gt;
+
+    &lt;h2 id='G'&gt;Les mots clés SEO en G&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Google Webmaster Tool&lt;/strong&gt; :
+      Outil indispensable développé par Google pour aider au référencement d'un site.
+      A installer sur tous vos vites!
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;Google Analytics&lt;/strong&gt; :
+      Service gratuit développé également par Google pour mesurer l'audience de
+      votre site web. Utilisé par plus de 10 millions de sites.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;Google My Business&lt;/strong&gt; :
+      Service gratuit encore développé par Google qui offre une véritable vitrine
+      pour votre entreprise sur le web. Permet d'améliorer considérablement le
+      référencement local.
+    &lt;/p&gt;
+
+    &lt;h2 id='K'&gt;Les mots clés SEO en K&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Keyword&lt;/strong&gt; :
+      ce sont les mots clés de votre site web. Le nerf de la guerre en SEO pour
+      apparaitre premier dans les moteurs de recherche quand l'utilisateur effectue
+      une recherche.
+    &lt;/p&gt;
+
+    &lt;h2 id='L'&gt;Les mots clés SEO en L&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Landing page&lt;/strong&gt; :
+      Il s'agit de la page d'atterrissage qui fait souvent lien entre le online et
+      le offline.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Lien nofollow&lt;/strong&gt; :
+      On traite la question dans un article destiné uniquement à la question :
+      &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l'interprétation du nofollow&quot;&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Longue traine&lt;/strong&gt; :
+      Concept créé en 2004 par Chris Anderson,
+      si les mots-clés très demandés, donc concurrentiels,
+      génèrent 20 % de trafic, la longue traîne, qui cible des expressions
+      moins recherchées par les internautes, attire au total 80 % de l’audience.
+      Un bon moyen de générer du trafic!
+    &lt;/p&gt;
+
+
+    &lt;h2 id='N'&gt;Les mots clés SEO en N&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Netlinking (link building)&lt;/strong&gt; :
+      Opération qui consiste à obtenir des liens pointant vers son site web,
+      de manière gratuite (échange de lien, article de blog...) ou en payant.
+    &lt;/p&gt;
+
+    &lt;h2 id='P'&gt;Les mots clés SEO en P&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;PageRank&lt;/strong&gt; :
+      Célèbre algorithme créé par Lary Page et Sergey Brin à l'origine de Google,
+      qui tire son orginalité dans le fait de classer les sites en fonction de la
+      qualité des liens pointant vers eux.
+    &lt;/p&gt;
+
+    &lt;h2 id='R'&gt;Les mots clés SEO en R&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Robot.txt&lt;/strong&gt; :
+      fichier à placer à la racine du serveur pour indiquer aux robots des
+      moteurs de recherche de ne pas indexer certaines pages du site.
+    &lt;/p&gt;
+
+    &lt;h2 id='S'&gt;Les mots clés SEO en S&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;SEO&lt;/strong&gt; :
+      Vraiment?
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;Sitemap&lt;/strong&gt; :
+      Liste des urls des pages, des images et des vidéos de votre site. Souvent
+      au formal XML, il permet aux moteurs de recherches de connaitre l'ensemble
+      de votre structure du contenu de votre site.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;SERP (search engine results page)&lt;/strong&gt; :
+      Comme l'indique son nom, il s'agit de la page de résultats d'un moteur de
+      recherche.
+    &lt;/p&gt;
+
+
+    &lt;h2 id='T'&gt;Les mots clés SEO en T&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;Taux de rebond (Bounce rate)&lt;/strong&gt; :
+      Pourcentage des internautes qui arrivent sur votre site web sans aller plus loin.
+      Ils ne restent en fait que quelques secondes sur vote site.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      &lt;strong&gt;Trafic organique&lt;/strong&gt; :
+      Trafic vers votre site généré uniquement par la recherche organique.
+      L'idéal est d'équilibrer les 3 sources de trafic (trafic organique, payant et référent).
+    &lt;/p&gt;
+
+    &lt;h2 id='U'&gt;Les mots clés SEO en U&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;URL (Uniform Resource Locator)&lt;/strong&gt; :
+      Permet de retrouver son site sur internet, elle traduit une adresse IP
+      en une adresse textuelle plus facile à retenir. 
+    &lt;/p&gt;
+
+  &lt;/div&gt;
 </description>
         <pubDate>Wed, 11 Nov 2015 15:00:00 +0100</pubDate>
         <link>www.referencement-web.site/glossaire-referencement-SEO</link>
