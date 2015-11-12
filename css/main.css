@@ -598,3 +598,7 @@ pre > code {
   .highlight .il {
     color: #009999;
   }
+
+  strong{
+  font-weight: bold;
+  }
