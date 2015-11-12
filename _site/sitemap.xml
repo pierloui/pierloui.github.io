@@ -5,52 +5,30 @@
 
   <url>
     <loc>http://www.referencement-web.site/</loc>
-    <lastmod>2015-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://www.referencement-web.site/glossaire-referencement-SEO/</loc>
   </url>
 
   <url>
     <loc>http://www.referencement-web.site/apropos/</loc>
-    <lastmod>2015-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>http://www.referencement-web.site/recherche-mobile-google</loc>
-    <lastmod>2015-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-
-  <url>
-    <loc>http://www.referencement-web.site/comportement-robot-indexeur-google-bing</loc>
-    <lastmod>2015-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
   </url>
 
   <url>
     <loc>http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/</loc>
-    <lastmod>2015-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-
-
-  <url>
-    <loc>http://www.referencement-web.site/glossaire-referencement-SEO/</loc>
-    <lastmod>2015-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <image:image>
       <image:loc>http://www.referencement-web.site/images/bing-google-nofollow.png</image:loc>
-      <image:titre>Comparer Google et Bing dans l'interprétation du nofollow</image:titre>
+      <image:title>Comparer Google et Bing dans l'interprétation du nofollow</image:title>
     </image:image>
+  </url>
+
+  <url>
+    <loc>http://www.referencement-web.site/comportement-robot-indexeur-google-bing</loc>
   </url>
 
 </urlset>
