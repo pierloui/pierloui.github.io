@@ -6,11 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Comparer Google et Bing dans l'interprétation du nofollow</title>
-    <meta name="description" content="">
+    <meta name="description" content="Le nofollow est un attribut de la balise < a > en HTML qui permet de créer des liens. Mais quelle en est son interprétation par les moteurs de recherches Google et Bing ?">
     <link rel="canonical" href="http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow">
     <meta property="og:url" content="http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow" />
     <meta property="og:title" content="Comparer Google et Bing dans l'interprétation du nofollow" />
-    <meta property="og:description" content=""/>
+    <meta property="og:image" content="http://www.referencement-web.site/images/bing-google-nofollow.png"/>
+    <meta property="og:description" content="Le nofollow est un attribut de la balise < a > en HTML qui permet de créer des liens. Mais quelle en est son interprétation par les moteurs de recherches Google et Bing ?"/>
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Référencement SEO • Google et Bing" />
@@ -40,15 +41,7 @@
       </a>
 
       <div class="trigger">
-        
-          
-          <a class="page-link" href="/apropos/">A propos</a>
-          
-        
-          
-        
-          
-        
+          <a class="page-link" href="/apropos/">A propros</a>
       </div>
     </nav>
 
@@ -61,6 +54,7 @@
       <div class="wrapper">
         <div class="post" itemscope itemtype="http://schema.org/NewsArticle">
   <meta itemprop="datePublished" content="2015-10-30 12:11:41 +0100"/>
+  <meta itemprop="dateModified" content="2015-11-26"/>
 
   <ol class="breadcrumb">
     <li><a href="http://www.referencement-web.site/">Référencement SEO • Google et Bing</a></li>
@@ -68,13 +62,91 @@
   </ol>
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="headline">"Comparer Google et Bing dans l'interprétation du nofollow"</h1>
+    <h1 class="post-title" itemprop="headline">Comparer Google et Bing dans l'interprétation du nofollow</h1>
     <p class="post-meta">Oct 30, 2015</p>
-    <meta itemprop="datePublished" content="2015-10-30 12:11:41 +0100"/>
   </header>
 
+  <p>
+    <strong itemprop="description">
+      Le nofollow est un attribut de la balise < a > en HTML qui permet de créer des liens. Mais quelle en est son interprétation par les moteurs de recherches Google et Bing ?
+    </strong>
+  </p>
+
+  <img itemprop="image" src="http://www.referencement-web.site/images/bing-google-nofollow.png" alt="Comparer Google et Bing dans l'interprétation du nofollow" />
+
   <article class="post-content">
-    <img itemprop="image" src="/images/bing-google-nofollow.png" alt="Comparer Google et Bing dans l'interprétation du nofollow" />
+    <h2>L'interprétation du nofollow</h2>
+<p>
+  L'attribut nofollow indique aux moteurs de recherches comme Google ou Bing de
+  "ne pas suivre ce lien spécifique" présent sur la page. En effet, à l'origine,
+  les webmasters pouvaient indiquer dans une meta sur leur page qu'il ne fallait
+  pas suivre tous les liens de cette page :
+</p>
+<pre>&lt;meta name="robots" content="noindex,nofollow"&gt;</pre>
+<p>
+  Cependant il était très difficile au sein d'une page d'indiquer aux moteux de recherches
+  de ne pas suivre certains liens. C'est pourquoi l'attribut nofollow a
+  été créé. Il se place simplement dans la balise < a > comme ci dessous :
+</p>
+<pre>&lt;a rel="nofollow"&gt;page nofollow&lt;/a&gt;</pre>
+
+<p>
+  De plus, alors que les liens entrants vers son site sont très bénéfiques pour le SEO
+  (ils représenteraient plus de 20% dans l'algorithme de PageRank), le nofollow sert également
+  à limiter le spam sur les blogs et les forums. En effet, de nombreux commentaires et
+  messages étaient postés sur ce type de plateforme uniquement pour obtenir des liens
+  supplémentaires vers son site.
+</p>
+
+<p>
+  Ainsi, à travers cette étude, nous allons comparer Google et Bing
+  sur leur interprétation du nofollow et essayer de comprendre son influence
+  sur le référencement naturel.
+</p>
+
+
+
+<h2>Ce que les autres pensent du nofollow</h2>
+
+<h3>Selon Google</h3>
+<p>
+  Google indique dans son centre d'aide, qu'en règle générale, les robots Google
+  ne suivent pas ces liens. C'est à dire, qu'ils ne transfèrent ni le lien, ni le texte
+  d'ancrage pour le calcul du PageRank. Ils supprimeraient même ces liens cibles de leur index
+  à condition qu'aucun autre lien (n'utilisant pas l'attribut nofollow) ne renvoit vers
+  la page ou que l'url de la page n'est pas présente dans un sitemap.
+</p>
+
+<h3>Selon Bing</h3>
+<p>
+  Bing dit simplement que leurs robots comprennent l'attribut nofollow mais ne précisent
+  pas davantage leurs comportements face à ce type de lien.
+</p>
+
+<h3>Selon Wikipédia</h3>
+<p>
+  Wikipédia affirme que les Google et Bing respectent la directive, et donc, ne prennent
+  pas en compte les liens en nofollow.
+</p>
+
+<h2>Problématique</h2>
+<p>
+Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
+vont quand même "crawler" la page correspondante à un lien nofollow? Qu'en font-ils
+ensuite?
+</p>
+<p>
+Cela soulève également d'autres enjeux du référencement naturel. L'algorithme
+de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
+De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
+les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
+total? 
+</p>
+
+
+<p>
+  <a rel="nofollow" href="/nofollow/">page nofollow</a>
+</p>
 
   </article>
 </div>
