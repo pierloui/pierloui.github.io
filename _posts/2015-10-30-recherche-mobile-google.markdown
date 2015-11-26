@@ -7,6 +7,9 @@ dateModified : 2015-11-26
 permalink: recherche-mobile-google
 tags: protocole
 ---
+##Les changements
+
+Google affiche un label "Site mobile" à coté du nom du site dans les résultats de la recherche. Ce label est attribué en temps réel, lorsque les robots de Google indexent la page. Les pages ayant ce label sont, selon Google, favorisées dans les résultats.
 
 ##Mobile versus desktop
 
@@ -14,9 +17,6 @@ Premier point, très important: le fait de ne pas être optimisé pour la naviga
 
 Les tablettes ne sont pas comme des mobiles, elles sont considérées comme des ordinateurs. Les résultats affichés sont donc les mêmes que sur desktop.
 
-##Les changements
-
-Google prévoit d'afficher un label "Site mobile" à coté du nom du site dans les résultats de la recherche. Ce label est attribué en temps réel, lorsque les robots de Google indexent la page.
 
 ##Comment faire?
 
