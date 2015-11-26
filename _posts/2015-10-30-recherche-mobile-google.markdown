@@ -27,3 +27,6 @@ Google a mis en place un [guide pour les sites mobiles](https://developers.googl
  
 
 ![Test de compatibilité Google](/images/test-compatibilite-google.png "Test de compatibilité Google")
+
+
+Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.
