@@ -16,4 +16,8 @@ Les tablettes ne sont pas comme des mobiles, elles sont considérées comme des 
 
 ##Les changements
 
-Google prévoit 
+Google prévoit d'afficher un label "Site mobile" à coté du nom du site dans les résultats de la recherche. Ce label est attribué en temps réel, lorsque les robots de Google indexent la page.
+
+##Comment faire?
+
+Google a mis en place un [guide pour les sites mobiles](https://developers.google.com/webmasters/mobile-sites/?hl=fr-FR&utm_source=MFT&utm_medium=incoming-link&utm_campaign=MFT) aidant à offrir une bonne expérience sur un site mobile. 
