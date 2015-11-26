@@ -6,7 +6,10 @@ date:   2015-10-30 11:36:41
 dateModified : 2015-11-26
 permalink: recherche-mobile-google
 tags: protocole
+image : /images/referencement-mobile.png
+alt : à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles
 ---
+
 ##Les changements
 
 Google affiche un label "Site mobile" à coté du nom du site dans les résultats de la recherche. Ce label est attribué en temps réel, lorsque les robots de Google indexent la page. Les pages ayant ce label sont, selon Google, favorisées dans les résultats.
