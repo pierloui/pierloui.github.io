@@ -5,8 +5,8 @@
     <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Nov 2015 15:23:59 +0100</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2015 15:23:59 +0100</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2015 15:51:17 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2015 15:51:17 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -346,7 +346,7 @@ Cela soulève également d'autres enjeux du référencement naturel. L'algorithm
 de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
 De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
 les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
-total? 
+total?
 &lt;/p&gt;
 
 

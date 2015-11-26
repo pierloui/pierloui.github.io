@@ -22,7 +22,9 @@ layout: default
     </strong>
   </p>
 
-  <img itemprop="image" src="http://{{ site.url}}{{ page.image }}" alt="Comparer Google et Bing dans l'interprétation du nofollow" />
+  {% if page.image %}
+  <img itemprop="image" src="http://{{ site.url}}{{ page.image }}" alt="{{ page.alt }}" />
+  {% endif %}
 
   <article class="post-content">
     {{ content }}
