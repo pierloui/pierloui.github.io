@@ -24,7 +24,7 @@ Les tablettes ne sont pas comme des mobiles, elles sont considérées comme des 
 ##Comment faire?
 
 Google a mis en place un [guide pour les sites mobiles](https://developers.google.com/webmasters/mobile-sites/?hl=fr-FR&utm_source=MFT&utm_medium=incoming-link&utm_campaign=MFT) aidant à offrir une bonne expérience sur un site mobile.  
- 
+
 
 ![Test de compatibilité Google](/images/test-compatibilite-google.png "Test de compatibilité Google")
 

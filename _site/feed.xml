@@ -5,8 +5,8 @@
     <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Nov 2015 15:56:36 +0100</pubDate>
-    <lastBuildDate>Thu, 26 Nov 2015 15:56:36 +0100</lastBuildDate>
+    <pubDate>Mon, 30 Nov 2015 16:48:17 +0100</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2015 16:48:17 +0100</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -135,7 +135,7 @@
     &lt;p&gt;
       &lt;strong&gt;Google Webmaster Tool&lt;/strong&gt; :
       Outil indispensable développé par Google pour aider au référencement d'un site.
-      A installer sur tous vos vites!
+      A installer sur tous vos sites! on l'utilise &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;ici&lt;/a&gt;
     &lt;/p&gt;
 
     &lt;p&gt;
@@ -254,32 +254,6 @@
       </item>
     
       <item>
-        <title>à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles</title>
-        <description>
-</description>
-        <pubDate>Fri, 30 Oct 2015 12:36:41 +0100</pubDate>
-        <link>www.referencement-web.site/recherche-mobile-google</link>
-        <guid isPermaLink="true">www.referencement-web.site/recherche-mobile-google</guid>
-        
-        <category>protocole</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?</title>
-        <description>
-</description>
-        <pubDate>Fri, 30 Oct 2015 12:35:41 +0100</pubDate>
-        <link>www.referencement-web.site/comportement-robot-indexeur-google-bing</link>
-        <guid isPermaLink="true">www.referencement-web.site/comportement-robot-indexeur-google-bing</guid>
-        
-        <category>protocole</category>
-        
-        
-      </item>
-    
-      <item>
         <title>Comparer Google et Bing dans l'interprétation du nofollow</title>
         <description>&lt;h2&gt;L'interprétation du nofollow&lt;/h2&gt;
 &lt;p&gt;
@@ -349,14 +323,55 @@ les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou
 total?
 &lt;/p&gt;
 
-
 &lt;p&gt;
-  &lt;a rel=&quot;nofollow&quot; href=&quot;/nofollow/&quot;&gt;page nofollow&lt;/a&gt;
+  &lt;a rel=&quot;nofollow&quot; href=&quot;http://nofollow.cypriengilbert.com/&quot;&gt;page nofollow&lt;/a&gt;
 &lt;/p&gt;
 </description>
-        <pubDate>Fri, 30 Oct 2015 12:11:41 +0100</pubDate>
+        <pubDate>Fri, 30 Oct 2015 14:12:13 +0100</pubDate>
         <link>www.referencement-web.site/comparer-google-bing-interpretation-nofollow</link>
         <guid isPermaLink="true">www.referencement-web.site/comparer-google-bing-interpretation-nofollow</guid>
+        
+        <category>protocole</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles</title>
+        <description>&lt;h2 id=&quot;les-changements&quot;&gt;Les changements&lt;/h2&gt;
+
+&lt;p&gt;Google affiche un label “Site mobile” à coté du nom du site dans les résultats de la recherche. Ce label est attribué en temps réel, lorsque les robots de Google indexent la page. Les pages ayant ce label sont, selon Google, favorisées dans les résultats.&lt;/p&gt;
+
+&lt;h2 id=&quot;mobile-versus-desktop&quot;&gt;Mobile versus desktop&lt;/h2&gt;
+
+&lt;p&gt;Premier point, très important: le fait de ne pas être optimisé pour la navigation mobile n’influence pas les résultats de recherche classique. L’algorithme est le même, mais les résultats ne sont pas affichés de la même manière&lt;/p&gt;
+
+&lt;p&gt;Les tablettes ne sont pas comme des mobiles, elles sont considérées comme des ordinateurs. Les résultats affichés sont donc les mêmes que sur desktop.&lt;/p&gt;
+
+&lt;h2 id=&quot;comment-faire&quot;&gt;Comment faire?&lt;/h2&gt;
+
+&lt;p&gt;Google a mis en place un &lt;a href=&quot;https://developers.google.com/webmasters/mobile-sites/?hl=fr-FR&amp;amp;utm_source=MFT&amp;amp;utm_medium=incoming-link&amp;amp;utm_campaign=MFT&quot;&gt;guide pour les sites mobiles&lt;/a&gt; aidant à offrir une bonne expérience sur un site mobile.  &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/test-compatibilite-google.png&quot; alt=&quot;Test de compatibilité Google&quot; title=&quot;Test de compatibilité Google&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2015 12:36:41 +0100</pubDate>
+        <link>www.referencement-web.site/recherche-mobile-google</link>
+        <guid isPermaLink="true">www.referencement-web.site/recherche-mobile-google</guid>
+        
+        <category>protocole</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?</title>
+        <description>
+</description>
+        <pubDate>Fri, 30 Oct 2015 12:35:41 +0100</pubDate>
+        <link>www.referencement-web.site/comportement-robot-indexeur-google-bing</link>
+        <guid isPermaLink="true">www.referencement-web.site/comportement-robot-indexeur-google-bing</guid>
         
         <category>protocole</category>
         
