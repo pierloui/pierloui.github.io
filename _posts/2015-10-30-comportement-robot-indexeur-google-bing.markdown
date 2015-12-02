@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?"
-description: ""
+description: "Les robots indexeurs sont des logiciels des moteurs de recherche qui visitent et analysent les sites et les pages d'internet. Mais comment se comportent-ils lors d'ajouts de sites ou de nouvelles pages ?"
 date:   2015-10-30 11:35:41
 permalink: comportement-robot-indexeur-google-bing
 tags: protocole
