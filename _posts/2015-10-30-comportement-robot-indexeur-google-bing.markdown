@@ -35,3 +35,15 @@ Dans un quatrième temps nous ajouterons des liens externes qui rédigeront vers
 Enfin, si les robots indexeurs ne nous ont toujours pas trouvé (ce qui signifie que les moteurs de recherche ne nous indexent toujours pas), nous ajouteront les modules Google et Bing au sein de notre site et nous leur proposerons de visiter notre site web.
 
 </p>
+
+<p>
+<h2>
+   Comportement des robots d'indexation sur un site vierge
+</h2>
+Pour cette première phase de test, nous avons donc créer un nouveau sous-domaine, sur le <a href="http://cypriengilbert.com">site personnel</a> de Cyprien Gilbert. (Pour ne pas fausser le test, je mettrais le sous-domaine lors de la prochaine mise à jour de cet article). Sur la page mise en ligne, nous n'avons donc mis aucun lien, ni entrant ni sortant. Nous devions donc constater que ni les robots de Google, ni ceux de Bing ne viendraient visiter notre site, puisqu'il n'apparait nul part.
+Le site a donc été mis en ligne le 27 novembre dernier, et comme prévu, en analysant les logs (et ça va vite ! :) ), aucune trace d'indexeurs provenant de Google ou de Bing. Nous ne voyons que quelques visites, faites par nous-mêmes : 
+<img></img>
+La seconde étape consiste en la même chose, au détail près que je vais désormais ajouter des liens sortants que j'activerais régulièrement. Le but ici, est de voir si seul des liens sortants permettent de se faire référencer par les robots indexeurs de Google et Bing après la mise en ligne d'une nouvelle page ou d'un nouveau site. 
+
+
+</p>
