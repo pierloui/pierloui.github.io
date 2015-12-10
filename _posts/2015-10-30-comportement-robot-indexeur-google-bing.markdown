@@ -49,6 +49,7 @@ La seconde étape consiste en la même chose, au détail près que je vais déso
 </p>
 
 <p>
-   <a href="http://www.referencement-web.site/glossaire-referencement-SEO">Article Suivant</a>  <a href="http://www.referencement-web.site/recherche-mobile-google"><Article précédent</a><br>
+   <a href="http://www.referencement-web.site/glossaire-referencement-SEO">Article Suivant</a><br>
+   <a href="http://www.referencement-web.site/recherche-mobile-google"><Article précédent</a><br>
    <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing/">Revenir en haut de page</a>
 </p>
