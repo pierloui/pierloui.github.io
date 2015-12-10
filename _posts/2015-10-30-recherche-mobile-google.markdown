@@ -30,3 +30,9 @@ Google a mis en place un [guide pour les sites mobiles](https://developers.googl
 
 
 Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.
+
+<p>
+   <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing/">Article Suivant</a><br>
+   <a href="http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/">Article précédent</a><br>
+   <a href="http://www.referencement-web.site/recherche-mobile-google/">Revenir en haut de page</a>
+</p>
