@@ -6,8 +6,7 @@ date:   2015-11-26 23:01:00
 dateModified : 2015-12-22
 permalink: google-link-juice
 tags: autre
-image : /images/
-alt : 
+
 ---
 
 ##Le link juice: kesako?
