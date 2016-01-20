@@ -1,19 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Référencement SEO • Google et Bing</title>
-    <description>Articles scientifiques pour tout savoir sur le référencement SEO, comportement des robots indexeurs de Google et Bing, interprétation du no-follow, recherche mobile.</description>
+    <title>Référencement web, Google et Bing et leurs robots indexeurs</title>
+    <description>Comprendre le référencement SEO : comportement des robots indexeurs de Google et Bing, interprétation du no-follow et indexation mobile</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 30 Nov 2015 16:48:17 +0100</pubDate>
-    <lastBuildDate>Mon, 30 Nov 2015 16:48:17 +0100</lastBuildDate>
-    <generator>Jekyll v2.3.0</generator>
+    <pubDate>Wed, 20 Jan 2016 10:24:57 +0100</pubDate>
+    <lastBuildDate>Wed, 20 Jan 2016 10:24:57 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Google - Le link juice</title>
+        <description>&lt;h2 id=&quot;le-link-juice-kesako&quot;&gt;Le link juice: kesako?&lt;/h2&gt;
+
+&lt;p&gt;Le link juice est une partie du classement positif d’une page qui passe vers une autre page. Chaque page de votre site possède son propre PageRank, et l’ensemble des PageRank du domaine s’additionne pour former le DomainRank.&lt;/p&gt;
+
+&lt;p&gt;Le link juice doit être le plus possible réparti entre les différentes pages du site. Le concentrer sur la page principale n’est pas une bonne idée, mieux vaut le répartir sur l’ensemble des pages du site (il n’est pas cependant indispensable d’avoir 100 liens vers la page “contact” du site). Tout concentrer sur la page d’accueil la ferait remonter dans les classements, mais partager permet d’améliorer le “deep linking” qui est lui même un facteur positif de classement.&lt;/p&gt;
+
+&lt;p&gt;Pour en apprendre plus sur le &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow&quot;&gt;no-follow, c’est par ici&lt;/a&gt; ! Pour le &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google&quot;&gt;référencement mobile, par là&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Nov 2015 00:01:00 +0100</pubDate>
+        <link>www.referencement-web.site/google-link-juice</link>
+        <guid isPermaLink="true">www.referencement-web.site/google-link-juice</guid>
+        
+        <category>autre</category>
+        
+        
+      </item>
     
       <item>
         <title>Le glossaire du référencement SEO</title>
         <description>&lt;p itemprop=&quot;description&quot;&gt;
   Quand on parle SEO (Search Engine Optimisation) ou référencement naturel, on utilise
-  tout un tas d'acronymes et d'expressions qui peuvent vite effrayer les débutants.
+  tout un tas d&#39;acronymes et d&#39;expressions qui peuvent vite effrayer les débutants.
   Voici ci-dessous le glossaire du SEO.
 &lt;/p&gt;
 
@@ -47,32 +66,32 @@
     Z
   &lt;/p&gt;
 
-  &lt;h2 id='A'&gt;Les mots clés SEO en A&lt;/h2&gt;
+  &lt;h2 id=&#39;A&#39;&gt;Les mots clés SEO en A&lt;/h2&gt;
   &lt;p&gt;
     &lt;strong&gt;A/B testing&lt;/strong&gt; :
-    Technique qui permet de tester des variantes des pages web de son site. C'est
+    Technique qui permet de tester des variantes des pages web de son site. C&#39;est
     en effet la meilleur manière de confirmer vos hypothèses et de garantir la
     meilleure expérience utilisateur à votre cible.
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Adblock&lt;/strong&gt; :
-    Comme on parle de référencement naturel, Adieu la publicité !
+    Comme on parle de &lt;a href=&quot;http://referencement-web.site&quot;&gt;référencement naturel&lt;/a&gt;, Adieu la publicité !
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Adwords&lt;/strong&gt; :
-    Outil de Google qui permet d'avoir des informations sur les mots clés recherchés.
+    Outil de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt; qui permet d&#39;avoir des informations sur les mots clés recherchés.
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Ancre de lien&lt;/strong&gt; :
-    l'ancre de lien est la partie visible d'un lien sur un site, elle est souvent
-    différente de l'url. (en HTML, il s'agit du texte à l'intérieur de la balise a)
+    l&#39;ancre de lien est la partie visible d&#39;un lien sur un site, elle est souvent
+    différente de l&#39;url. (en HTML, il s&#39;agit du texte à l&#39;intérieur de la balise a)
   &lt;/p&gt;
 
 
-  &lt;h2 id='B'&gt;Les mots clés SEO en B&lt;/h2&gt;
+  &lt;h2 id=&#39;B&#39;&gt;Les mots clés SEO en B&lt;/h2&gt;
   &lt;p&gt;
     &lt;strong&gt;Balise h1, h2…h6 &lt;/strong&gt; :
     Ces balises permettent de répresenter les titres en HTML de façon hiérarchique.
@@ -84,35 +103,35 @@
   &lt;p&gt;
     &lt;strong&gt;Black Hat&lt;/strong&gt; :
     &quot;Hacker mal intentionné&quot;, en SEO, ce sont les personnes qui ne respectent pas les
-    recommandations des moteurs de recherches et essayent de tricher afin d'être mieux
-    référencés. Attention, Google n'aime pas ça!
+    recommandations des moteurs de recherches et essayent de tricher afin d&#39;être mieux
+    référencés. Attention, Google n&#39;aime pas ça!
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Backlink&lt;/strong&gt; :
     ensemble des liens entrants ou inbound links vers votre site.
-    C'est sur cet élément innovateur que Lary Page et Sergey Brin ont fondé leur
+    C&#39;est sur cet élément innovateur que Lary Page et Sergey Brin ont fondé leur
     algorithme de PageRank au tout début de Google. La qualité du site référent est
     à priviligier sur la quantité.
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Bing&lt;/strong&gt; :
-    Google n'est pas le seul moteur de recherche. En France, Google possède 95%
+    Google n&#39;est pas le seul moteur de recherche. En France, Google possède 95%
     de part de marché mais au États-Unis Yahoo/Bing représente quand même 22%. A
     ne pas négliger pour les business internationaux!
   &lt;/p&gt;
 
   &lt;p&gt;
     &lt;strong&gt;Bing Webmaster Tool&lt;/strong&gt; :
-    L'équivalent de &quot;Google Webmaster Tool&quot;, c'est un outil pour aider les
+    L&#39;équivalent de &quot;Google Webmaster Tool&quot;, c&#39;est un outil pour aider les
     webmasters au référencement de leur site.
 
-    &lt;h2 id='D'&gt;Les mots clés SEO en D&lt;/h2&gt;
+    &lt;h2 id=&#39;D&#39;&gt;Les mots clés SEO en D&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Densité de mots clés&lt;/strong&gt; :
-      Nombre de mots clés et occurrence de ces derniers sur votre site. C'est un
-      indice de performance SEO : trop de répétitions d'un mot clé et vous serez
+      Nombre de mots clés et occurrence de ces derniers sur votre site. C&#39;est un
+      indice de performance SEO : trop de répétitions d&#39;un mot clé et vous serez
       considéré comme un spameur,pas assez et vous ne serez même pas considéré :)
     &lt;/p&gt;
 
@@ -122,53 +141,58 @@
       rapport aux concurrents sur les moteurs de recherche.
     &lt;/p&gt;
 
-    &lt;h2 id='F'&gt;Les mots clés SEO en F&lt;/h2&gt;
+    &lt;h2 id=&#39;F&#39;&gt;Les mots clés SEO en F&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Fil d’arianne (anglais : breadcrumb)&lt;/strong&gt; :
-      C'est un système d'aide à la navigation qui permet
-      à l'utilisateur de retrouver son chemin de progression sur un site internet.
+      C&#39;est un système d&#39;aide à la navigation qui permet
+      à l&#39;utilisateur de retrouver son chemin de progression sur un site internet.
       Ce terme vient du petit Poucet pour le mot anglais et de la mythologie grecque
       en français.
     &lt;/p&gt;
 
-    &lt;h2 id='G'&gt;Les mots clés SEO en G&lt;/h2&gt;
+    &lt;h2 id=&#39;G&#39;&gt;Les mots clés SEO en G&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Google Webmaster Tool&lt;/strong&gt; :
-      Outil indispensable développé par Google pour aider au référencement d'un site.
-      A installer sur tous vos sites! on l'utilise &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;ici&lt;/a&gt;
+      Outil indispensable développé par Google pour aider au référencement d&#39;un site.
+      A installer sur tous vos sites! on l&#39;utilise dans cet article : &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;- à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles -
+&lt;/a&gt;
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;strong&gt;&lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;Google&lt;/a&gt;&lt;/strong&gt; :
+      &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;Google&lt;/a&gt; est le leader des moteur de recherches!
     &lt;/p&gt;
 
     &lt;p&gt;
       &lt;strong&gt;Google Analytics&lt;/strong&gt; :
-      Service gratuit développé également par Google pour mesurer l'audience de
+      Service gratuit développé également par Google pour mesurer l&#39;audience de
       votre site web. Utilisé par plus de 10 millions de sites.
     &lt;/p&gt;
 
     &lt;p&gt;
       &lt;strong&gt;Google My Business&lt;/strong&gt; :
       Service gratuit encore développé par Google qui offre une véritable vitrine
-      pour votre entreprise sur le web. Permet d'améliorer considérablement le
+      pour votre entreprise sur le web. Permet d&#39;améliorer considérablement le
       référencement local.
     &lt;/p&gt;
 
-    &lt;h2 id='K'&gt;Les mots clés SEO en K&lt;/h2&gt;
+    &lt;h2 id=&#39;K&#39;&gt;Les mots clés SEO en K&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Keyword&lt;/strong&gt; :
       ce sont les mots clés de votre site web. Le nerf de la guerre en SEO pour
-      apparaitre premier dans les moteurs de recherche quand l'utilisateur effectue
+      apparaitre premier dans les moteurs de recherche quand l&#39;utilisateur effectue
       une recherche.
     &lt;/p&gt;
 
-    &lt;h2 id='L'&gt;Les mots clés SEO en L&lt;/h2&gt;
+    &lt;h2 id=&#39;L&#39;&gt;Les mots clés SEO en L&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Landing page&lt;/strong&gt; :
-      Il s'agit de la page d'atterrissage qui fait souvent lien entre le online et
+      Il s&#39;agit de la page d&#39;atterrissage qui fait souvent lien entre le online et
       le offline.
     &lt;/p&gt;
     &lt;p&gt;
       &lt;strong&gt;Lien nofollow&lt;/strong&gt; :
       On traite la question dans un article destiné uniquement à la question :
-      &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l'interprétation du nofollow&quot;&lt;/a&gt;
+      &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l&#39;interprétation du nofollow&quot;&lt;/a&gt;
     &lt;/p&gt;
     &lt;p&gt;
       &lt;strong&gt;Longue traine&lt;/strong&gt; :
@@ -180,29 +204,35 @@
     &lt;/p&gt;
 
 
-    &lt;h2 id='N'&gt;Les mots clés SEO en N&lt;/h2&gt;
+    &lt;h2 id=&#39;N&#39;&gt;Les mots clés SEO en N&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Netlinking (link building)&lt;/strong&gt; :
-      Opération qui consiste à obtenir des liens pointant vers son site web,
+      Opération qui consiste à obtenir des &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;liens&lt;/a&gt; pointant vers son site web,
       de manière gratuite (échange de lien, article de blog...) ou en payant.
     &lt;/p&gt;
 
-    &lt;h2 id='P'&gt;Les mots clés SEO en P&lt;/h2&gt;
+    &lt;h2 id=&#39;P&#39;&gt;Les mots clés SEO en P&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;PageRank&lt;/strong&gt; :
-      Célèbre algorithme créé par Lary Page et Sergey Brin à l'origine de Google,
+      Célèbre algorithme créé par Lary Page et Sergey Brin à l&#39;origine de &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;Google&lt;/a&gt;,
       qui tire son orginalité dans le fait de classer les sites en fonction de la
       qualité des liens pointant vers eux.
     &lt;/p&gt;
 
-    &lt;h2 id='R'&gt;Les mots clés SEO en R&lt;/h2&gt;
+    &lt;h2 id=&#39;R&#39;&gt;Les mots clés SEO en R&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Robot.txt&lt;/strong&gt; :
       fichier à placer à la racine du serveur pour indiquer aux robots des
       moteurs de recherche de ne pas indexer certaines pages du site.
     &lt;/p&gt;
-
-    &lt;h2 id='S'&gt;Les mots clés SEO en S&lt;/h2&gt;
+    &lt;p&gt;
+      &lt;strong&gt;&lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;&lt;/a&gt;Robots indexeurs&lt;/a&gt;&lt;/strong&gt; :
+      Les&lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt; robots indexeurs&lt;/a&gt; (ou robots d’indexation, web crawlers en anglais) sont des logiciels capables de visiter automatiquement
+      et sans interruption les pages et sites de l’internet. A la manière du comportement humain, &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;les robots indexeurs&lt;/a&gt; se déplacent
+      de lien en lien au travers des sites web. Ils repèrent ce que contiennent les balises « SRC » et « HREF » et les ajoutent aux
+      pages à visiter.
+    &lt;/p&gt;
+    &lt;h2 id=&#39;S&#39;&gt;Les mots clés SEO en S&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;SEO&lt;/strong&gt; :
       Vraiment?
@@ -211,18 +241,18 @@
     &lt;p&gt;
       &lt;strong&gt;Sitemap&lt;/strong&gt; :
       Liste des urls des pages, des images et des vidéos de votre site. Souvent
-      au formal XML, il permet aux moteurs de recherches de connaitre l'ensemble
+      au formal XML, il permet aux moteurs de recherches de connaitre l&#39;ensemble
       de votre structure du contenu de votre site.
     &lt;/p&gt;
 
     &lt;p&gt;
       &lt;strong&gt;SERP (search engine results page)&lt;/strong&gt; :
-      Comme l'indique son nom, il s'agit de la page de résultats d'un moteur de
+      Comme l&#39;indique son nom, il s&#39;agit de la page de résultats d&#39;un moteur de
       recherche.
     &lt;/p&gt;
 
 
-    &lt;h2 id='T'&gt;Les mots clés SEO en T&lt;/h2&gt;
+    &lt;h2 id=&#39;T&#39;&gt;Les mots clés SEO en T&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;Taux de rebond (Bounce rate)&lt;/strong&gt; :
       Pourcentage des internautes qui arrivent sur votre site web sans aller plus loin.
@@ -232,10 +262,10 @@
     &lt;p&gt;
       &lt;strong&gt;Trafic organique&lt;/strong&gt; :
       Trafic vers votre site généré uniquement par la recherche organique.
-      L'idéal est d'équilibrer les 3 sources de trafic (trafic organique, payant et référent).
+      L&#39;idéal est d&#39;équilibrer les 3 sources de trafic (trafic organique, payant et référent).
     &lt;/p&gt;
 
-    &lt;h2 id='U'&gt;Les mots clés SEO en U&lt;/h2&gt;
+    &lt;h2 id=&#39;U&#39;&gt;Les mots clés SEO en U&lt;/h2&gt;
     &lt;p&gt;
       &lt;strong&gt;URL (Uniform Resource Locator)&lt;/strong&gt; :
       Permet de retrouver son site sur internet, elle traduit une adresse IP
@@ -243,6 +273,12 @@
     &lt;/p&gt;
 
   &lt;/div&gt;
+  &lt;p&gt;
+    Autres articles : &lt;br&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;&quot;Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?&quot;&lt;/a&gt;&lt;br&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l&#39;interprétation du nofollow&quot;&lt;/a&gt;&lt;br&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;&quot;à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?&quot;&lt;/a&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Nov 2015 15:00:00 +0100</pubDate>
         <link>www.referencement-web.site/glossaire-referencement-SEO</link>
@@ -254,25 +290,25 @@
       </item>
     
       <item>
-        <title>Comparer Google et Bing dans l'interprétation du nofollow</title>
-        <description>&lt;h2&gt;L'interprétation du nofollow&lt;/h2&gt;
+        <title>Comparer Google et Bing dans l&#39;interprétation du nofollow</title>
+        <description>&lt;h2&gt;L&#39;interprétation du nofollow&lt;/h2&gt;
 &lt;p&gt;
-  L'attribut nofollow indique aux moteurs de recherches comme Google ou Bing de
-  &quot;ne pas suivre ce lien spécifique&quot; présent sur la page. En effet, à l'origine,
-  les webmasters pouvaient indiquer dans une meta sur leur page qu'il ne fallait
+  L&#39;attribut nofollow indique aux moteurs de recherches comme Google ou Bing de
+  &quot;ne pas suivre ce lien spécifique&quot; présent sur la page. En effet, à l&#39;origine,
+  les webmasters pouvaient indiquer dans une meta sur leur page qu&#39;il ne fallait
   pas suivre tous les liens de cette page :
 &lt;/p&gt;
 &lt;pre&gt;&amp;lt;meta name=&quot;robots&quot; content=&quot;noindex,nofollow&quot;&amp;gt;&lt;/pre&gt;
 &lt;p&gt;
-  Cependant il était très difficile au sein d'une page d'indiquer aux moteux de recherches
-  de ne pas suivre certains liens. C'est pourquoi l'attribut nofollow a
+  Cependant il était très difficile au sein d&#39;une page d&#39;indiquer aux moteux de recherches
+  de ne pas suivre certains liens. C&#39;est pourquoi l&#39;attribut nofollow a
   été créé. Il se place simplement dans la balise &lt; a &gt; comme ci dessous :
 &lt;/p&gt;
 &lt;pre&gt;&amp;lt;a rel=&quot;nofollow&quot;&amp;gt;page nofollow&amp;lt;/a&amp;gt;&lt;/pre&gt;
 
 &lt;p&gt;
   De plus, alors que les liens entrants vers son site sont très bénéfiques pour le SEO
-  (ils représenteraient plus de 20% dans l'algorithme de PageRank), le nofollow sert également
+  (ils représenteraient plus de 20% dans l&#39;algorithme de PageRank), le nofollow sert également
   à limiter le spam sur les blogs et les forums. En effet, de nombreux commentaires et
   messages étaient postés sur ce type de plateforme uniquement pour obtenir des liens
   supplémentaires vers son site.
@@ -290,16 +326,16 @@
 
 &lt;h3&gt;Selon Google&lt;/h3&gt;
 &lt;p&gt;
-  Google indique dans son centre d'aide, qu'en règle générale, les robots Google
-  ne suivent pas ces liens. C'est à dire, qu'ils ne transfèrent ni le lien, ni le texte
-  d'ancrage pour le calcul du PageRank. Ils supprimeraient même ces liens cibles de leur index
-  à condition qu'aucun autre lien (n'utilisant pas l'attribut nofollow) ne renvoit vers
-  la page ou que l'url de la page n'est pas présente dans un sitemap.
+  Google indique dans son centre d&#39;aide, qu&#39;en règle générale, les robots Google
+  ne suivent pas ces liens. C&#39;est à dire, qu&#39;ils ne transfèrent ni le lien, ni le texte
+  d&#39;ancrage pour le calcul du PageRank. Ils supprimeraient même ces liens cibles de leur index
+  à condition qu&#39;aucun autre lien (n&#39;utilisant pas l&#39;attribut nofollow) ne renvoit vers
+  la page ou que l&#39;url de la page n&#39;est pas présente dans un sitemap.
 &lt;/p&gt;
 
 &lt;h3&gt;Selon Bing&lt;/h3&gt;
 &lt;p&gt;
-  Bing dit simplement que leurs robots comprennent l'attribut nofollow mais ne précisent
+  Bing dit simplement que leurs robots comprennent l&#39;attribut nofollow mais ne précisent
   pas davantage leurs comportements face à ce type de lien.
 &lt;/p&gt;
 
@@ -312,19 +348,31 @@
 &lt;h2&gt;Problématique&lt;/h2&gt;
 &lt;p&gt;
 Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
-vont quand même &quot;crawler&quot; la page correspondante à un lien nofollow? Qu'en font-ils
+vont quand même &quot;crawler&quot; la page correspondante à un lien nofollow? Qu&#39;en font-ils
 ensuite?
 &lt;/p&gt;
 &lt;p&gt;
-Cela soulève également d'autres enjeux du référencement naturel. L'algorithme
-de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
-De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
+Cela soulève également d&#39;autres enjeux du référencement naturel. L&#39;algorithme
+de PageRank s&#39;appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
+De plus, le poid des liens sortants d&#39;un site est divisé par le nombre de liens. Ainsi,
 les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
 total?
 &lt;/p&gt;
+&lt;p&gt;
+  De plus, nous avons posté des commentaires sur les blogs &quot;Abondance&quot;, &quot;supermarketeur&quot; et &quot;NeilPatel&quot;
+  avec des liens vers le site &lt;a href=&quot;www.referencement-web.site&quot; title=&quot;référencement naturel web&quot;&gt;Référencement web&lt;/a&gt;. Ces liens sont
+  en no follow mais pourtant ils sont listés dans le Google Search Console.
+&lt;/p&gt;
+
+&lt;img src=&quot;http://www.referencement-web.siteimages/liens-entrants.png&quot; alt=&quot;liens entrants no follow&quot; /&gt;
 
 &lt;p&gt;
   &lt;a rel=&quot;nofollow&quot; href=&quot;http://nofollow.cypriengilbert.com/&quot;&gt;page nofollow&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot; title=&quot;recherche mobile Google&quot;&gt;recherche mobile Google&lt;/a&gt;&lt;br&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing&quot; title=&quot;comportement des robots indexeurs&quot;&gt;Comportement des robots indexeurs&lt;/a&gt;&lt;br&gt;
 &lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Oct 2015 14:12:13 +0100</pubDate>
@@ -350,11 +398,16 @@ total?
 
 &lt;h2 id=&quot;comment-faire&quot;&gt;Comment faire?&lt;/h2&gt;
 
-&lt;p&gt;Google a mis en place un &lt;a href=&quot;https://developers.google.com/webmasters/mobile-sites/?hl=fr-FR&amp;amp;utm_source=MFT&amp;amp;utm_medium=incoming-link&amp;amp;utm_campaign=MFT&quot;&gt;guide pour les sites mobiles&lt;/a&gt; aidant à offrir une bonne expérience sur un site mobile.  &lt;/p&gt;
+&lt;p&gt;Google a mis en place un &lt;a href=&quot;https://developers.google.com/webmasters/mobile-sites/?hl=fr-FR&amp;amp;utm_source=MFT&amp;amp;utm_medium=incoming-link&amp;amp;utm_campaign=MFT&quot;&gt;guide pour les sites mobiles&lt;/a&gt; aidant à offrir une bonne expérience sur un site mobile.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/test-compatibilite-google.png&quot; alt=&quot;Test de compatibilité Google&quot; title=&quot;Test de compatibilité Google&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.&lt;/p&gt;
+
+&lt;p&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot; title=&quot;Comportement roboto indexeur Google Bing&quot;&gt;Comportement robot indexeur Google Bing&lt;/a&gt;&lt;br /&gt;
+   &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot; title=&quot;Interprétation no-follow&quot;&gt;Interprétation nofollow&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Oct 2015 12:36:41 +0100</pubDate>
         <link>www.referencement-web.site/recherche-mobile-google</link>
@@ -367,7 +420,54 @@ total?
     
       <item>
         <title>Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?</title>
-        <description>
+        <description>&lt;h2&gt;Les robots indexeurs&lt;/h2&gt;
+&lt;p&gt;
+  Les &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt; robots indexeurs&lt;/a&gt; (ou robots d’indexation, web crawlers en anglais) sont des logiciels capables de visiter automatiquement et sans interruption les pages et sites de l’internet.
+  A la manière du comportement humain, les robots indexeurs se déplacent de lien en lien au travers des sites web. Ils repèrent ce que contiennent les balises « SRC » et « HREF » et les ajoutent aux pages à visiter.
+  Ainsi, si le webmaster n’effectue aucune action lors de la mise en ligne d’un nouveau site ou de nouvelles pages, les robots visiteront (et donc indexeront) ces pages uniquement lorsque le robot aura croisé l’adresse ce cette page durant la visite d’autres sites web.
+
+&lt;/p&gt;
+
+&lt;h2&gt;Comment se faire voir des robots de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt; et&lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt; Bing &lt;/a&gt;?&lt;/h2&gt;
+&lt;p&gt;
+  Vous vous demandez donc, comment faire si aucun site ne redirige vers le mien ? Est-ce que cela veut dire que les robots indexeurs ne visiteront jamais mes pages web que j’aurais mis en ligne ?
+  Oui et non. En effet le temps d’indexation sera bien plus long, mais les robots finiront par vous trouver. Comment ? Car votre site possèdera sûrement des liens vers d’autres sites. Or lorsque l’on clique sur un lien, la provenance de la visite est enregistrée. Concrètement le site X verra que la visite provenait de votre site, et les robots le verront aussi. Ils ajouteront donc votre site à leur liste de site à visiter et finiront par vous référencer.
+  Mais, comme dans la vie, le meilleur moyen de se faire voir est de se montrer. Les principaux moteurs de recherche proposent en effets des outils afin de leur proposer des sites à visiter. Une fois votre site inscrit, les robots indexeurs tâcheront de faire leur boulot en allant sur votre site.
+
+&lt;/p&gt;
+
+&lt;h2&gt;La vérification du fonctionnement des robots indexeurs par les tests&lt;/h2&gt;
+&lt;p&gt;
+  &lt;h3&gt;Le site vierge&lt;/h3&gt;
+  Dans un premier temps nous avons créé un site web, ne contenant aucun &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;lien&lt;/a&gt; (ni entrant, ni sortant). L’hypothèse est donc que ces robots d’indexation (ceux de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt;, de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Bing&lt;/a&gt; ou d’autres moteurs de recherches) ne trouveront jamais ce site. Nous avons donc étudiés quotidiennement les &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;fichiers « logs »&lt;/a&gt; qui sont des fichiers textes qui enregistrent les évènements provoqués sur le site par un tiers (que ce soit par un serveur ou une application). Nous devrions donc constaté qu’aucun robot n’est venu visiter notre site.
+  &lt;h3&gt;Les robots d&#39;indexation et les liens sortants&lt;/h3&gt;
+  Dans un second temps, nous ajouterons sur ce même site des liens sortant, qui redirigerons vers des sites d’importance faible. De même nous analyserons les fichiers &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;« logs »&lt;/a&gt;, pour voir si des visites ont été enregistrées. Dans un troisième temps, nous referons la même manipulation, avec des liens sortants vers de grands site e-commerce, ou des blogs reconnus.
+  &lt;h3&gt;Les robots d&#39;indexation et les liens entrants&lt;/h3&gt;
+  Dans un quatrième temps nous ajouterons des liens externes qui rédigeront vers notre site. Ces liens proviendront de nos sites personnels, ainsi que de réseaux sociaux ou de forums.
+  &lt;h3&gt;La méthode simple : proposons au robots de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt; et &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Bing&lt;/a&gt; nos pages&lt;/h3&gt;
+
+  Enfin, si les &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;robots indexeurs&lt;/a&gt; ne nous ont toujours pas trouvé (ce qui signifie que les moteurs de recherche ne nous indexent toujours pas), nous ajouteront les modules &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt; et &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Bing&lt;/a&gt; au sein de notre site et nous leur proposerons de visiter notre site web.
+
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h2&gt;
+    Comportement des robots d&#39;indexation sur un site vierge
+  &lt;/h2&gt;
+  Pour cette première phase de test, nous avons donc créer un nouveau &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;sous-domaine&lt;/a&gt;, sur le &lt;a href=&quot;http://cypriengilbert.com&quot;&gt;site personnel&lt;/a&gt; de Cyprien Gilbert. (EDIT : Voici le lien du test : &lt;a href=&quot;http://seo.cypriengilbert.com&quot;&gt;http://seo.cypriengilbert.com&lt;/a&gt;). Sur la page mise en ligne, nous n&#39;avons donc mis aucun lien, ni entrant ni sortant. Nous devions donc constater que ni les robots de Google, ni ceux de Bing ne viendraient visiter notre site, puisqu&#39;il n&#39;apparait nul part.
+  Le site a donc été mis en ligne le 27 novembre dernier, et comme prévu, en analysant les &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;logs&lt;/a&gt; (et ça va vite ! :) ), aucune trace d&#39;indexeurs provenant de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;Google&lt;/a&gt; ou de &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt; Bing&lt;/a&gt;. Nous ne voyons que quelques visites, faites par nous-mêmes :
+  &lt;img&gt;&lt;/img&gt;
+  La seconde étape consiste en la même chose, au détail près que je vais désormais ajouter des &lt;a href=&quot;http://www.referencement-web.site/glossaire-referencement-SEO/&quot;&gt;liens sortants&lt;/a&gt; que j&#39;activerais régulièrement. Le but ici, est de voir si seul des liens sortants permettent de se faire référencer par les robots indexeurs de Google et Bing après la mise en ligne d&#39;une nouvelle page ou d&#39;un nouveau site.
+  Un mois après la mise en place de ces liens sortant, ma nouvelle page n&#39;a toujours pas été visité par les robots indexeurs de Google ou de Bing.&lt;br&gt;
+  Nous passons donc à l&#39;avant dernière étape de ce test, consistant à mettre des liens entrant vers notre sous domaine créé pour l&#39;occasion. Nous mettrons donc des liens
+  provenant de nos sites perso ainsi que de notre blog : &lt;a href=&quot;http://maximeherbaut.com&quot;&gt;http://maximeherbaut.com&lt;/a&gt; et &lt;a href=&quot;http://cypriengilbert.com&quot;&gt;http://cypriengilbert.com&lt;/a&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow&quot; title=&quot;Interprétation du no-follow&quot;&gt;Interprétation du nofollow&lt;/a&gt;
+  &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google&quot; title=&quot;recherche mobile Google&quot;&gt;Recherche mobile Google&lt;/a&gt;
+&lt;/p&gt;
 </description>
         <pubDate>Fri, 30 Oct 2015 12:35:41 +0100</pubDate>
         <link>www.referencement-web.site/comportement-robot-indexeur-google-bing</link>

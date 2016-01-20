@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Google - Le link juice"
-description: ""
+description: "Qu'est ce que le link juice, entre PageRank et DomainRank"
 date:   2015-11-26 23:01:00
 dateModified : 2015-12-22
 permalink: google-link-juice
 tags: autre
-
 ---
 
 ##Le link juice: kesako?
