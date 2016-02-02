@@ -5,8 +5,8 @@
     <description>Comprendre le référencement SEO : comportement des robots indexeurs de Google et Bing, interprétation du no-follow et indexation mobile</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Feb 2016 11:39:05 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 11:39:05 +0100</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 11:41:47 +0100</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 11:41:47 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -402,7 +402,7 @@
   De plus, l&#39;analyse des logs nous a montré que...
 &lt;/p&gt;
 
-&lt;img src=&quot;http://www.referencement-web.site/images/log-nofollow.png&quot; alt=&quot;analyse logs nofollow&quot;/&gt;
+&lt;img src=&quot;http://www.referencement-web.site/images/log-nofollow.png&quot; alt=&quot;analyse logs nofollow&quot; class=&quot;img-second&quot;/&gt;
 
 &lt;p&gt;
   Pour le deuxième test, nous avons posté des commentaires sur les blogs &quot;Abondance&quot;, &quot;supermarketeur&quot; et &quot;NeilPatel&quot;
@@ -410,7 +410,7 @@
   en no-follow mais pourtant ils sont listés dans le Google Search Console.
 &lt;/p&gt;
 
-&lt;img src=&quot;http://www.referencement-web.site/images/liens-entrants.png&quot; alt=&quot;liens entrants no follow&quot; class=&quot;img-second&quot;/&gt;
+&lt;img src=&quot;http://www.referencement-web.site/images/liens-entrants.png&quot; alt=&quot;liens entrants no follow&quot; class=&quot;margin-bottom&quot;/&gt;
 
 &lt;h2&gt;Conclusion et pistes de recherches additionnelles&lt;/h2&gt;
 &lt;p&gt;
