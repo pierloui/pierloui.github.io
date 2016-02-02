@@ -71,6 +71,11 @@ figcaption {
   font-size: 14px;
 }
 
+.img-second{
+  width: 80%;
+  margin: auto; 
+}
+
 /**
 * Lists
 */

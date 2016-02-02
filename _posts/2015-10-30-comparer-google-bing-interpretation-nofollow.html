@@ -83,7 +83,7 @@ alt : Comparer Google et Bing dans l'interprétation du nofollow
 <p>
   Nous allons donc tester 2 hypothèses :
   <ol>
-    <li>Les robots des moteurs de rechercher vont "crawler" la page issue d'un lien no-follow mais n'indexent pas cette page;</li>
+    <li>Les robots des moteurs de recherche vont "crawler" la page issue d'un lien no-follow mais n'indexent pas cette page;</li>
     <li>Dans le Search Console de Google, les liens entrants avec une balise no-follow ne sont pas répertoriées dans la catégorie "liens vers votre site".</li>
   </ol>
 </p>
@@ -95,6 +95,7 @@ alt : Comparer Google et Bing dans l'interprétation du nofollow
   Cette page n'est présente sur aucun sitemap et le lien ci-dessus est le seul
   qui pointe vers elle. Ainsi, nous allons voir si la page sera indexée et nous
   étudierons les logs pour savoir si les moteurs de recherche ont "crawlé" cette dernière.
+  (Ce lien est présent sur la page depuis le début du mois de Janvier).
 </p>
 
 <p>
@@ -105,16 +106,17 @@ alt : Comparer Google et Bing dans l'interprétation du nofollow
 <h2>Résultats obtenus</h2>
 
 <p>
-  Pour le premier test, nous pouvons voir que ni Google, ni Bing n'ont indexé la page.
+  Pour le premier test, nous pouvons voir que ni Google, ni Bing ont indexé la page.
 </p>
-<div class="row">
-  <div class="col-md-6">
-    <img src="http://{{ site.url}}/images/index-google.png" alt="index Google" class="img-responsive"/>
-  </div>
-  <div class="col-md-6">
-    <img src="http://{{ site.url}}/images/index-bing.png" alt="index Bing" class="img-responsive"/>
-  </div>
+
+<div>
+  <img src="http://{{ site.url}}/images/index-google.png" alt="index Google" class="img-second"/>
 </div>
+
+<div>
+  <img src="http://{{ site.url}}/images/index-bing.png" alt="index Bing" class="img-second"/>
+</div>
+
 
 <p>
   De plus, l'analyse des logs nous a montré que...
@@ -129,6 +131,10 @@ alt : Comparer Google et Bing dans l'interprétation du nofollow
 </p>
 
 <img src="http://{{ site.url}}/images/liens-entrants.png" alt="liens entrants no follow"/>
+
+<h2>Conclusion et pistes de recherches additionnelles</h2>
+<p>
+</p>
 
 <p style="margin-top: 40px">
   <a href="http://www.referencement-web.site/recherche-mobile-google/" title="recherche mobile Google">recherche mobile Google</a><br>
