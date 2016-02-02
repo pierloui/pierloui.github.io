@@ -4,7 +4,7 @@ title:  "Comparer Google et Bing dans l'interprétation du nofollow"
 description: "Le nofollow est un attribut de la balise < a > en HTML qui permet de créer des liens.
 Mais quelle en est son interprétation par les moteurs de recherches Google et Bing ?"
 date: 2015-10-30 13:12:13
-dateModified : 2016-01-20
+dateModified : 2016-02-02
 permalink: comparer-google-bing-interpretation-nofollow
 tags: protocole
 image : /images/bing-google-nofollow.png
@@ -67,30 +67,70 @@ alt : Comparer Google et Bing dans l'interprétation du nofollow
 
 <h2>Problématique</h2>
 <p>
-Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
-vont quand même "crawler" la page correspondante à un lien nofollow? Qu'en font-ils
-ensuite?
+  Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
+  vont quand même "crawler" la page correspondante à un lien nofollow? Qu'en font-ils
+  ensuite?
 </p>
 <p>
-Cela soulève également d'autres enjeux du référencement naturel. L'algorithme
-de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
-De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
-les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
-total?
+  Cela soulève également d'autres enjeux du référencement naturel. L'algorithme
+  de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
+  De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
+  les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
+  total?
 </p>
+
+<h2>hypothèses testées</h2>
 <p>
-  De plus, nous avons posté des commentaires sur les blogs "Abondance", "supermarketeur" et "NeilPatel"
+  Nous allons donc tester 2 hypothèses :
+  <ol>
+    <li>Les robots des moteurs de rechercher vont "crawler" la page issue d'un lien no-follow mais n'indexent pas cette page;</li>
+    <li>Dans le Search Console de Google, les liens entrants avec une balise no-follow ne sont pas répertoriées dans la catégorie "liens vers votre site".</li>
+  </ol>
+</p>
+
+<h2>Protocole de test mis en place</h2>
+<p>
+  Le premier test consiste à mettre en place ce lien avec une balise no-follow
+  vers le sous-domaine nofollow.cypriengilbert.com : <a rel="nofollow" href="http://nofollow.cypriengilbert.com/">page nofollow</a>.
+  Cette page n'est présente sur aucun sitemap et le lien ci-dessus est le seul
+  qui pointe vers elle. Ainsi, nous allons voir si la page sera indexée et nous
+  étudierons les logs pour savoir si les moteurs de recherche ont "crawlé" cette dernière.
+</p>
+
+<p>
+  Le deuxième test consiste à poster des commentaires sur des blogs qui proposent
+  de mettre un lien vers son site en no-follow.
+</p>
+
+<h2>Résultats obtenus</h2>
+
+<p>
+  Pour le premier test, nous pouvons voir que ni Google, ni Bing n'ont indexé la page.
+</p>
+<div class="row">
+  <div class="col-md-6">
+    <img src="http://{{ site.url}}/images/index-google.png" alt="index Google" class="img-responsive"/>
+  </div>
+  <div class="col-md-6">
+    <img src="http://{{ site.url}}/images/index-bing.png" alt="index Bing" class="img-responsive"/>
+  </div>
+</div>
+
+<p>
+  De plus, l'analyse des logs nous a montré que...
+</p>
+
+<img src="http://{{ site.url}}/images/log-nofollow.png" alt="analyse logs nofollow"/>
+
+<p>
+  Pour le deuxième test, nous avons posté des commentaires sur les blogs "Abondance", "supermarketeur" et "NeilPatel"
   avec des liens vers le site <a href="http://www.referencement-web.site" title="référencement naturel web">Référencement web</a>. Ces liens sont
-  en no follow mais pourtant ils sont listés dans le Google Search Console.
+  en no-follow mais pourtant ils sont listés dans le Google Search Console.
 </p>
 
 <img src="http://{{ site.url}}/images/liens-entrants.png" alt="liens entrants no follow"/>
 
 <p style="margin-top: 40px">
-  <a rel="nofollow" href="http://nofollow.cypriengilbert.com/">page nofollow</a>
-</p>
-
-<p>
-   <a href="http://www.referencement-web.site/recherche-mobile-google/" title="recherche mobile Google">recherche mobile Google</a><br>
-   <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing" title="comportement des robots indexeurs">Comportement des robots indexeurs</a><br>
+  <a href="http://www.referencement-web.site/recherche-mobile-google/" title="recherche mobile Google">recherche mobile Google</a><br>
+  <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing" title="comportement des robots indexeurs">Comportement des robots indexeurs</a><br>
 </p>
