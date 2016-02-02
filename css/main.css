@@ -73,7 +73,7 @@ figcaption {
 
 .img-second{
   width: 80%;
-  margin: auto; 
+  margin: auto;
 }
 
 /**
@@ -382,6 +382,7 @@ pre > code {
   }
   .post-content h2 {
     font-size: 32px;
+    margin-top: 30px;
   }
   @media screen and (max-width: 800px) {
     .post-content h2 {
