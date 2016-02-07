@@ -5,8 +5,8 @@
     <description>Comprendre le référencement SEO : comportement des robots indexeurs de Google et Bing, interprétation du no-follow et indexation mobile</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 02 Feb 2016 11:43:47 +0100</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 11:43:47 +0100</lastBuildDate>
+    <pubDate>Sun, 07 Feb 2016 15:44:06 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Feb 2016 15:44:06 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -349,14 +349,7 @@
 &lt;p&gt;
   Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
   vont quand même &quot;crawler&quot; la page correspondante à un lien nofollow? Qu&#39;en font-ils
-  ensuite?
-&lt;/p&gt;
-&lt;p&gt;
-  Cela soulève également d&#39;autres enjeux du référencement naturel. L&#39;algorithme
-  de PageRank s&#39;appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
-  De plus, le poid des liens sortants d&#39;un site est divisé par le nombre de liens. Ainsi,
-  les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
-  total?
+  ensuite? 
 &lt;/p&gt;
 
 &lt;h2&gt;hypothèses testées&lt;/h2&gt;
@@ -414,6 +407,14 @@
 
 &lt;h2&gt;Conclusion et pistes de recherches additionnelles&lt;/h2&gt;
 &lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;
+  Cela soulève également d&#39;autres enjeux du référencement naturel. L&#39;algorithme
+  de PageRank s&#39;appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
+  De plus, le poid des liens sortants d&#39;un site est divisé par le nombre de liens. Ainsi,
+  les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
+  total?
 &lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 40px&quot;&gt;
