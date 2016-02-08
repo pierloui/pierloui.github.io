@@ -56,7 +56,7 @@ Google pénalise théoriquement les contenus dupliqués. Notre deuxième article
 
 **Etape 3: Les résultats**
 
-![Le classement](/images/referencement_bananes "Le classement")
+![Le classement](/images/referencement_bananes.png "Le classement")
 
 La page optimisée mobile, qui pourrait théoriquement être considérée comme un doublon, se retrouve devant celle non optimisée, qui se fait à tort considérée comme "résultat très similaire".
 
