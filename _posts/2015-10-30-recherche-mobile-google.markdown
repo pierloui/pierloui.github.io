@@ -3,7 +3,7 @@ layout: post
 title:  "à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles"
 description: "Depuis le 21 avril 2015, Google a déployé sa mise à jour - mobile-friendly - . Quels sont donc les effets de cette mise à jour sur votre référencement?"
 date:   2015-10-30 11:36:41
-dateModified : 2015-11-26
+dateModified : 2016-02-08
 permalink: recherche-mobile-google
 tags: protocole
 image : /images/referencement-mobile.png
@@ -59,6 +59,8 @@ Google pénalise théoriquement les contenus dupliqués. Notre deuxième article
 ![Le classement](/images/referencement_bananes.png "Le classement")
 
 La page optimisée mobile, qui pourrait théoriquement être considérée comme un doublon, se retrouve devant celle non optimisée, qui se fait à tort considérée comme "résultat très similaire".
+
+(Les résultats affichés ici sont ceux pour une recherche classique mais ceux retournés sur mobile sont strictement identiques.)
 
 
 
