@@ -32,6 +32,37 @@ Google a mis en place un [guide pour les sites mobiles](https://developers.googl
 Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.
 
 
+##Notre protocole de test
+
+Comparer deux articles suffisament similaires pour être classé de la même manière est compliqué, voir impossible. Notre protocole de test est donc biaisé, mais son résultat est intéressant.
+
+**Etape 1**
+ 
+Premier article mis en ligne. Cet article n'est pas optimisé mobile, il contient une image trop grande pour être visionnée correctement. 
+
+![Résultat du test d'optimisation de Google](/images/desktop_non_optimized_results.png "Résultat du test d'optimisation de Google")
+
+![Recommendations de Google](/images/desktop_non_optimized_pic.png "Recommendations de Google")
+
+Une fois indexé, nous passons à l'étape 2.
+
+**Etape 2**
+
+Google pénalise théoriquement les contenus dupliqués. Notre deuxième article devrait donc être moins bien référencé, puisque le contenu est presque identique, à part une image qui change de taille et qui fait donc que la page passe le test de Google.
+
+![Résultat du test d'optimisation de Google](/images/mobile_results.png "Résultat du test d'optimisation de Google")
+
+![Recommendations de Google](/images/mobile_pic.png "Recommendations de Google")
+
+**Etape 3: Les résultats**
+
+![Le classement](/images/referencement_bananes "Le classement")
+
+La page optimisée mobile, qui pourrait théoriquement être considérée comme un doublon, se retrouve devant celle non optimisée, qui se fait à tort considérée comme "résultat très similaire".
+
+
+
+Nos autres articles ici:
 <p>
    <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing/" title="Comportement roboto indexeur Google Bing">Comportement robot indexeur Google Bing</a><br>
    <a href="http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/" title="Interprétation no-follow">Interprétation nofollow</a><br>
