@@ -5,8 +5,8 @@
     <description>Comprendre le référencement SEO : comportement des robots indexeurs de Google et Bing, interprétation du no-follow et indexation mobile</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Feb 2016 15:44:06 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 15:44:06 +0100</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2016 14:32:57 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2016 14:32:57 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -85,6 +85,12 @@
   &lt;/p&gt;
 
   &lt;p&gt;
+    &lt;strong&gt;AMP&lt;/strong&gt; :
+    Le projet Accelerated Mobile Page est un nouveau framework open source développé
+    par Google permettant d&#39;afficher quasiment instantanément une page sur un mobile.  
+  &lt;/p&gt;
+
+  &lt;p&gt;
     &lt;strong&gt;Ancre de lien&lt;/strong&gt; :
     l&#39;ancre de lien est la partie visible d&#39;un lien sur un site, elle est souvent
     différente de l&#39;url. (en HTML, il s&#39;agit du texte à l&#39;intérieur de la balise a)
@@ -155,7 +161,7 @@
       &lt;strong&gt;Google Webmaster Tool&lt;/strong&gt; :
       Outil indispensable développé par Google pour aider au référencement d&#39;un site.
       A installer sur tous vos sites! on l&#39;utilise dans cet article : &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;- à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles -
-&lt;/a&gt;
+      &lt;/a&gt;
     &lt;/p&gt;
     &lt;p&gt;
       &lt;strong&gt;&lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;Google&lt;/a&gt;&lt;/strong&gt; :
@@ -272,13 +278,18 @@
       en une adresse textuelle plus facile à retenir.
     &lt;/p&gt;
 
+    &lt;p style=&quot;text-align: right; margin-top: 30px;&quot;&gt;
+      Article écrit par &lt;a href=&quot;http://www.maximeherbaut.com&quot;&gt;Maxime Herbaut&lt;/a&gt;
+    &lt;/p&gt;
+
+    &lt;div style=&quot;margin-top: 30px;&quot;&gt;
+      &lt;h4&gt;Autres articles&lt;/h4&gt;
+      &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;&quot;Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?&quot;&lt;/a&gt;&lt;br&gt;
+      &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l&#39;interprétation du nofollow&quot;&lt;/a&gt;&lt;br&gt;
+      &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;&quot;à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?&quot;&lt;/a&gt;
+    &lt;/div&gt;
+
   &lt;/div&gt;
-  &lt;p&gt;
-    Autres articles : &lt;br&gt;
-   &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;&quot;Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?&quot;&lt;/a&gt;&lt;br&gt;
-   &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot;&gt;&quot;Comparer Google et Bing dans l&#39;interprétation du nofollow&quot;&lt;/a&gt;&lt;br&gt;
-   &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;&quot;à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?&quot;&lt;/a&gt;
-&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Nov 2015 15:00:00 +0100</pubDate>
         <link>www.referencement-web.site/glossaire-referencement-SEO</link>
@@ -298,7 +309,7 @@
   les webmasters pouvaient indiquer dans une meta sur leur page qu&#39;il ne fallait
   pas suivre tous les liens de cette page :
 &lt;/p&gt;
-&lt;pre&gt;&amp;lt;meta name=&quot;robots&quot; content=&quot;noindex,nofollow&quot;&amp;gt;&lt;/pre&gt;
+&lt;pre&gt;&amp;lt;meta name=&quot;robots&quot; content=&quot;noindex, nofollow&quot;&amp;gt;&lt;/pre&gt;
 &lt;p&gt;
   Cependant il était très difficile au sein d&#39;une page d&#39;indiquer aux moteux de recherches
   de ne pas suivre certains liens. C&#39;est pourquoi l&#39;attribut nofollow a
@@ -319,8 +330,6 @@
   sur leur interprétation du nofollow et essayer de comprendre son influence
   sur le référencement naturel.
 &lt;/p&gt;
-
-
 
 &lt;h2&gt;Ce que les autres pensent du nofollow&lt;/h2&gt;
 
@@ -349,7 +358,7 @@
 &lt;p&gt;
   Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
   vont quand même &quot;crawler&quot; la page correspondante à un lien nofollow? Qu&#39;en font-ils
-  ensuite? 
+  ensuite?
 &lt;/p&gt;
 
 &lt;h2&gt;hypothèses testées&lt;/h2&gt;
@@ -392,7 +401,9 @@
 
 
 &lt;p&gt;
-  De plus, l&#39;analyse des logs nous a montré que...
+  De plus, l&#39;analyse des logs nous a montré que les robots de Google et de Bing ne sont
+  pas allés sur le site. Cependant, nous pouvons voir qu&#39;un autre bot appelé &quot;Majestic12&quot;
+  est allé sur le site plusieurs fois.
 &lt;/p&gt;
 
 &lt;img src=&quot;http://www.referencement-web.site/images/log-nofollow.png&quot; alt=&quot;analyse logs nofollow&quot; class=&quot;img-second margin-bottom&quot;/&gt;
@@ -400,27 +411,37 @@
 &lt;p&gt;
   Pour le deuxième test, nous avons posté des commentaires sur les blogs &quot;Abondance&quot;, &quot;supermarketeur&quot; et &quot;NeilPatel&quot;
   avec des liens vers le site &lt;a href=&quot;http://www.referencement-web.site&quot; title=&quot;référencement naturel web&quot;&gt;Référencement web&lt;/a&gt;. Ces liens sont
-  en no-follow mais pourtant ils sont listés dans le Google Search Console.
+  en nofollow mais pourtant ils sont bien listés dans le Google Search Console.
 &lt;/p&gt;
 
 &lt;img src=&quot;http://www.referencement-web.site/images/liens-entrants.png&quot; alt=&quot;liens entrants no follow&quot; class=&quot;margin-bottom&quot;/&gt;
 
 &lt;h2&gt;Conclusion et pistes de recherches additionnelles&lt;/h2&gt;
 &lt;p&gt;
-
+  Ainsi, les robots de Google et Bing ne suivent pas les liens nofollow. De plus,
+  ils n&#39;indexent pas une page venant d&#39;un lien nofollow à condition que l&#39;url de cette dernière
+  ne soit présente sur aucun sitemap et qu&#39;il n&#39;y a pas de lien en follow vers cette celui-ci.
 &lt;/p&gt;
 &lt;p&gt;
-  Cela soulève également d&#39;autres enjeux du référencement naturel. L&#39;algorithme
+  Cependant, les liens nofollow sont tout de même listés dans le Google Search Console.
+&lt;/p&gt;
+&lt;p&gt;
+  Cela soulève d&#39;autres enjeux du référencement naturel. L&#39;algorithme
   de PageRank s&#39;appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
   De plus, le poid des liens sortants d&#39;un site est divisé par le nombre de liens. Ainsi,
   les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
   total?
 &lt;/p&gt;
 
-&lt;p style=&quot;margin-top: 40px&quot;&gt;
-  &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot; title=&quot;recherche mobile Google&quot;&gt;recherche mobile Google&lt;/a&gt;&lt;br&gt;
-  &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing&quot; title=&quot;comportement des robots indexeurs&quot;&gt;Comportement des robots indexeurs&lt;/a&gt;&lt;br&gt;
+&lt;p style=&quot;text-align: right; margin-top: 30px;&quot;&gt;
+  Article écrit par &lt;a href=&quot;http://www.maximeherbaut.com&quot;&gt;Maxime Herbaut&lt;/a&gt;
 &lt;/p&gt;
+
+&lt;div style=&quot;margin-top: 40px;&quot;&gt;
+  &lt;h4&gt;Autres articles&lt;/h4&gt;
+  &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot;&gt;&quot;Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?&quot;&lt;/a&gt;&lt;br&gt;
+  &lt;a href=&quot;http://www.referencement-web.site/recherche-mobile-google/&quot;&gt;&quot;à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?&quot;&lt;/a&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Fri, 30 Oct 2015 14:12:13 +0100</pubDate>
         <link>www.referencement-web.site/comparer-google-bing-interpretation-nofollow</link>

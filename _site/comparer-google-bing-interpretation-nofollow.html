@@ -15,7 +15,7 @@
     <meta property="og:locale" content="fr_FR" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Référencement SEO • Google et Bing" />
-    <meta name="msvalidate.01" content="EAAB1B90DF928B01D4E8C90570EA59EB" />
+    <meta name="msvalidate.01" content="3867FD2D9C3C3C5A55B419082D1E62F3" />
 
     <!-- CSS -->
     <link rel="icon" type="image/png" href="/images/favicon.png" />
@@ -54,7 +54,7 @@
     <div class="wrapper">
       <div class="post" itemscope itemtype="http://schema.org/NewsArticle">
   <meta itemprop="datePublished" content="2015-10-30 14:12:13 +0100"/>
-  <meta itemprop="dateModified" content="2016-02-02"/>
+  <meta itemprop="dateModified" content="2016-02-08"/>
 
   <ol class="breadcrumb">
     <li><a href="http://www.referencement-web.site/">Référencement web, Google et Bing et leurs robots indexeurs</a></li>
@@ -84,7 +84,7 @@
   les webmasters pouvaient indiquer dans une meta sur leur page qu'il ne fallait
   pas suivre tous les liens de cette page :
 </p>
-<pre>&lt;meta name="robots" content="noindex,nofollow"&gt;</pre>
+<pre>&lt;meta name="robots" content="noindex, nofollow"&gt;</pre>
 <p>
   Cependant il était très difficile au sein d'une page d'indiquer aux moteux de recherches
   de ne pas suivre certains liens. C'est pourquoi l'attribut nofollow a
@@ -105,8 +105,6 @@
   sur leur interprétation du nofollow et essayer de comprendre son influence
   sur le référencement naturel.
 </p>
-
-
 
 <h2>Ce que les autres pensent du nofollow</h2>
 
@@ -135,7 +133,7 @@
 <p>
   Les différentes questions qui se posent sont : est-ce que les moteurs de recherche
   vont quand même "crawler" la page correspondante à un lien nofollow? Qu'en font-ils
-  ensuite? 
+  ensuite?
 </p>
 
 <h2>hypothèses testées</h2>
@@ -178,7 +176,9 @@
 
 
 <p>
-  De plus, l'analyse des logs nous a montré que...
+  De plus, l'analyse des logs nous a montré que les robots de Google et de Bing ne sont
+  pas allés sur le site. Cependant, nous pouvons voir qu'un autre bot appelé "Majestic12"
+  est allé sur le site plusieurs fois.
 </p>
 
 <img src="http://www.referencement-web.site/images/log-nofollow.png" alt="analyse logs nofollow" class="img-second margin-bottom"/>
@@ -186,27 +186,37 @@
 <p>
   Pour le deuxième test, nous avons posté des commentaires sur les blogs "Abondance", "supermarketeur" et "NeilPatel"
   avec des liens vers le site <a href="http://www.referencement-web.site" title="référencement naturel web">Référencement web</a>. Ces liens sont
-  en no-follow mais pourtant ils sont listés dans le Google Search Console.
+  en nofollow mais pourtant ils sont bien listés dans le Google Search Console.
 </p>
 
 <img src="http://www.referencement-web.site/images/liens-entrants.png" alt="liens entrants no follow" class="margin-bottom"/>
 
 <h2>Conclusion et pistes de recherches additionnelles</h2>
 <p>
-
+  Ainsi, les robots de Google et Bing ne suivent pas les liens nofollow. De plus,
+  ils n'indexent pas une page venant d'un lien nofollow à condition que l'url de cette dernière
+  ne soit présente sur aucun sitemap et qu'il n'y a pas de lien en follow vers cette celui-ci.
 </p>
 <p>
-  Cela soulève également d'autres enjeux du référencement naturel. L'algorithme
+  Cependant, les liens nofollow sont tout de même listés dans le Google Search Console.
+</p>
+<p>
+  Cela soulève d'autres enjeux du référencement naturel. L'algorithme
   de PageRank s'appuye sur la quantité mais surtout la qualité des liens entrants vers un site.
   De plus, le poid des liens sortants d'un site est divisé par le nombre de liens. Ainsi,
   les moteurs de recherches prennent-ils en compte le nombre de liens en follow ou le nombre de liens
   total?
 </p>
 
-<p style="margin-top: 40px">
-  <a href="http://www.referencement-web.site/recherche-mobile-google/" title="recherche mobile Google">recherche mobile Google</a><br>
-  <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing" title="comportement des robots indexeurs">Comportement des robots indexeurs</a><br>
+<p style="text-align: right; margin-top: 30px;">
+  Article écrit par <a href="http://www.maximeherbaut.com">Maxime Herbaut</a>
 </p>
+
+<div style="margin-top: 40px;">
+  <h4>Autres articles</h4>
+  <a href="http://www.referencement-web.site/comportement-robot-indexeur-google-bing/">"Quel est le comportement des robots indexeurs après avoir mis en ligne un site ou publié de nouvelles pages ?"</a><br>
+  <a href="http://www.referencement-web.site/recherche-mobile-google/">"à partir de la recherche sur mobile, Google favorise-t-il les sites mobiles ?"</a>
+</div>
 
   </article>
 </div>
