@@ -5,8 +5,8 @@
     <description>Comprendre le référencement SEO : comportement des robots indexeurs de Google et Bing, interprétation du no-follow et indexation mobile</description>
     <link>www.referencement-web.site/</link>
     <atom:link href="www.referencement-web.site/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 08 Feb 2016 14:32:57 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 14:32:57 +0100</lastBuildDate>
+    <pubDate>Wed, 10 Feb 2016 14:45:57 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 14:45:57 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -472,6 +472,37 @@
 
 &lt;p&gt;Une fois la page reconnue comme compatible mobile, le classement pour celle ci sera mis à jour automatiquement et le label sera ajouté dans les résultats de recherche Google.&lt;/p&gt;
 
+&lt;h2 id=&quot;notre-protocole-de-test&quot;&gt;Notre protocole de test&lt;/h2&gt;
+
+&lt;p&gt;Comparer deux articles suffisament similaires pour être classé de la même manière est compliqué, voir impossible. Notre protocole de test est donc biaisé, mais son résultat est intéressant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Etape 1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Premier article mis en ligne. Cet article n’est pas optimisé mobile, il contient une image trop grande pour être visionnée correctement.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/desktop_non_optimized_results.png&quot; alt=&quot;Résultat du test d&#39;optimisation de Google&quot; title=&quot;Résultat du test d&#39;optimisation de Google&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/desktop_non_optimized_pic.png&quot; alt=&quot;Recommendations de Google&quot; title=&quot;Recommendations de Google&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Une fois indexé, nous passons à l’étape 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Etape 2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Google pénalise théoriquement les contenus dupliqués. Notre deuxième article devrait donc être moins bien référencé, puisque le contenu est presque identique, à part une image qui change de taille et qui fait donc que la page passe le test de Google.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mobile_results.png&quot; alt=&quot;Résultat du test d&#39;optimisation de Google&quot; title=&quot;Résultat du test d&#39;optimisation de Google&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/mobile_pic.png&quot; alt=&quot;Recommendations de Google&quot; title=&quot;Recommendations de Google&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Etape 3: Les résultats&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/referencement_bananes.png&quot; alt=&quot;Le classement&quot; title=&quot;Le classement&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La page optimisée mobile, qui pourrait théoriquement être considérée comme un doublon, se retrouve devant celle non optimisée, qui se fait à tort considérée comme “résultat très similaire”.&lt;/p&gt;
+
+&lt;p&gt;(Les résultats affichés ici sont ceux pour une recherche classique mais ceux retournés sur mobile sont strictement identiques.)&lt;/p&gt;
+
+&lt;p&gt;Nos autres articles ici:&lt;/p&gt;
 &lt;p&gt;
    &lt;a href=&quot;http://www.referencement-web.site/comportement-robot-indexeur-google-bing/&quot; title=&quot;Comportement roboto indexeur Google Bing&quot;&gt;Comportement robot indexeur Google Bing&lt;/a&gt;&lt;br /&gt;
    &lt;a href=&quot;http://www.referencement-web.site/comparer-google-bing-interpretation-nofollow/&quot; title=&quot;Interprétation no-follow&quot;&gt;Interprétation nofollow&lt;/a&gt;&lt;br /&gt;
@@ -530,6 +561,19 @@
   Nous passons donc à l&#39;avant dernière étape de ce test, consistant à mettre des liens entrant vers notre sous domaine créé pour l&#39;occasion. Nous mettrons donc des liens
   provenant de nos sites perso ainsi que de notre blog : &lt;a href=&quot;http://maximeherbaut.com&quot;&gt;http://maximeherbaut.com&lt;/a&gt; et &lt;a href=&quot;http://cypriengilbert.com&quot;&gt;http://cypriengilbert.com&lt;/a&gt;
 
+&lt;/p&gt;
+
+&lt;p&gt;
+  &lt;h2&gt;
+    Conclusion
+  &lt;/h2&gt;
+  Après plusieurs mois de tests, les premiers robots indexeurs ont enfin detecté et référencé la page. Il a suffit d&#39;une journée après la mise en 
+  place des liens entrants (de &lt;a href=&quot;http://maximeherbaut.com&quot;&gt;http://maximeherbaut.com&lt;/a&gt; et &lt;a href=&quot;http://cypriengilbert.com&quot;&gt;http://cypriengilbert.com&lt;/a&gt;)
+  avant que les premiers robots ne visite le site en question. Tous les robots d&#39;indextions des moteur de recherche sont passés : Googlebot, Googlebot mobile, Yahoo Slurp etc..
+  
+  Nous avons donc vu que mettre en ligne un site est bien, mais il ne sera que peu utile s&#39;il les robots indexeurs ne passent pas pour vous
+  référencé. Pour cela, le seul moyen efficace est d&#39;obtenir des liens entrants vers votre site. Il est également possible de se faire référencer
+  en se déclarant auprès de Google, mais cela risque malgré tout de ne pas être suffisant pour apparaitre dans les top résultats...
 &lt;/p&gt;
 
 &lt;p&gt;
